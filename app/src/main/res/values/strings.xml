@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Ubreak</string>
+    <string name="onboard_heading" translatable="false">Harmonize Your Thoughts, Elevate Your Grades</string>
+    <string name="onboard_content" translatable="false">The best self-love, the finest peace, the powerful equilibrium.</string>
+    <string name="onboard_btn" translatable="false">Get Started</string>
+    <string name="signin_email" translatable="false">Email UB</string>
+    <string name="signin_password" translatable="false">Password</string>
+</resources>
